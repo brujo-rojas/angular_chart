@@ -10,3 +10,17 @@ Run `grunt` for building and `grunt serve` for preview.
 ## Testing
 
 Running `grunt test` will run the unit tests with karma.
+
+
+
+-----
+## Install
+
+npm install
+  npm update -g //maybe
+  
+bower install
+
+gem install compass
+
+This project need xcode in mac, to install compass
